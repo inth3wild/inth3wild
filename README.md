@@ -9,7 +9,7 @@ So a little on my background 😊. My journey in tech started with cyber securit
 - **Tools & Platforms:** GitHub, Gitlab, Docker, Vercel, Cloudinary, OpenAI, AWS, Brimble.
 
 
-## Key Projects 📚
+## Key Projects 🧩
 - **[Lorem](https://):** Lorem ipsum.
 
 You can view these and more [here](https:///#)
@@ -19,7 +19,7 @@ You can view these and more [here](https:///#)
   
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-## Connect with Me 📬
+## Connect with Me 🤝
 - 📫 [Email](chukwu.toochukwu@lmu.edu.ng)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/toochukwu-chukwu)
 
