@@ -21,6 +21,6 @@ You can view these and more [here](https:///#)
 
 ## Connect with Me 📬
 - 📫 [Email](chukwu.toochukwu@lmu.edu.ng)
-- 🔗 [LinkedIn]()
+- 🔗 [LinkedIn](https://www.linkedin.com/in/toochukwu-chukwu)
 
 I’m looking forward to connecting and collaborating on exciting projects.
