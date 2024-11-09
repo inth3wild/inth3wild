@@ -1,7 +1,7 @@
 👋 Hi, I'm Toochukwu. I’m a software engineer focused on harnessing technology to make significant impacts and provide solutions.
 
 ## About Me
-So a little on my background 😊. My journey in tech started with cyber security (ethical hacking to be precise). The zeal and eagerness to hack things forced me to learn a lot about them. Wanted to hack web applications? I had to learn how they worked. Linux/Windows systems, same thing. Networks too? Yes of course. It was really an exciting journey. Fast forward to today and I'm still learning. But no, not to break stuff this time 😂. These days I wear a different hat or would I say helmet -- That of a builder and problem solver 👷🏾‍♂️
+So a little on my background 😊. My journey in tech started with cyber security (ethical hacking to be precise). The zeal and eagerness to hack things forced me to learn a lot about them. Wanted to hack web applications? I had to learn how they worked. Linux/Windows systems, same thing. Networks too? Yes of course. It was really an exciting journey. Fast forward to today and I'm still learning. But no, not to break stuff this time 😂. These days I wear a different hat or would I say helmet -- That of an engineer and problem solver 👷🏾‍♂️
 
 ## Technical Skills 🛠️
 - **Languages:** TypeScript, JavaScript, Python, SQL, Bash
