@@ -1,26 +1,31 @@
 👋 Hi, I'm Toochukwu. I’m a software engineer focused on harnessing technology to make significant impacts and provide solutions.
 
 ## About Me
-So a little on my background 😊. My journey in tech started with cyber security (ethical hacking to be precise). The zeal and eagerness to hack things forced me to learn a lot about them. Wanted to hack web applications? I had to learn how they worked. Linux/Windows systems, same thing. Networks too? Yes of course. It was really an exciting journey. Fast forward to today and I'm still learning. But no, not to break stuff this time 😂. These days I wear a different hat or would I say helmet -- That of an engineer and problem solver 👷🏾‍♂️
+My journey into tech began with a strong passion for cybersecurity—ethical hacking, to be precise. My curiosity and eagerness to understand how things worked drove me to learn extensively about various systems. From learning to hack web applications, Windows/Linux systems, Networks etc. It was really an exciting journey.
+
+Fast forward to today, I’m still learning. But this time, not to break things! Now, I’ve taken on a different role, one of an engineer and problem solver, building solutions and creating value. 👷🏾‍♂️
 
 ## Technical Skills 🛠️
 - **Languages:** TypeScript, JavaScript, Python, SQL, Bash
-- **Frameworks & Libraries:** React.js, Next.js, Node.js, FastAPI, Flask, Nest.js
-- **Tools & Platforms:** GitHub, Gitlab, Docker, Vercel, Cloudinary, OpenAI, AWS, Brimble.
+- **Frameworks & Libraries:** React.js, Next.js, FastAPI, Flask, Nest.js
+- **Tools & Platforms:** Node.js, GitHub, Gitlab, Docker, Vercel, OpenAI, AWS, Brimble, Deno.
 
 
 ## Key Projects 🧩
-- **[Lorem](https://):** Lorem ipsum.
+- **[Brimble](https://github.com/brimblehq):** Woked with the team in building an open-source web hosting platform that enables developers to deploy their front-end web apps, jam stack, and static sites with just three easy steps.
+- **[ThesispenAI](https://github.com/ThesispenAI):** Collaborated in the development of an AI-driven platform that assists researchers in generating comprehensive, well-referenced research papers in seconds.
+- **[Ruleborn](https://rulebornintegrated.com/):** Led the development of in-house systems for computer-based testing and employee attendance tracking.
+- **[Traidr](https://traidr-frontend.vercel.app/):** A user-friendly e-commerce platform for trading, bartering, and finding great deals on pre-owned items. (Currently undergoing refactoring to enhance functionality and user experience).
 
 You can view these and more [here](https:///#)
 
 ## Professional Goals 🚀
-- **Career Development:** Focused on furthering my career in software development, specifically in building impactful tech solutions.
+- **Career Development:** Focused on furthering my career in software engineering, specifically in building impactful tech solutions.
   
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills.
 
 ## Connect with Me 🤝
 - 📫 [Email](chukwu.toochukwu@lmu.edu.ng)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/toochukwu-chukwu)
 
-I’m looking forward to connecting and collaborating on exciting projects.
+I’m looking forward to connecting and collaborating on exciting projects. Let’s connect! 🌍
