@@ -25,7 +25,7 @@ You can view these and more [here](https:///#)
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills.
 
 ## Connect with Me 🤝
-- 📫 [Email](chukwu.toochukwu@lmu.edu.ng)
+- 📫 [Email](mailto:chukwu.toochukwu@lmu.edu.ng)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/toochukwu-chukwu)
 
 I’m looking forward to connecting and collaborating on exciting projects. Let’s connect! 🌍
