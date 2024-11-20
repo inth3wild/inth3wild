@@ -12,7 +12,7 @@ Fast forward to today, I’m still learning. But this time, not to break things!
 
 
 ## Key Projects 🧩
-- **[Brimble](https://github.com/brimblehq):** Woked with the team in building an open-source web hosting platform that enables developers to deploy their front-end web apps, jam stack, and static sites with just three easy steps.
+- **[Brimble](https://github.com/brimblehq):** Worked with the team in building an open-source web hosting platform that enables developers host modern web apps, databases, static-sites and more in just three easy steps.
 - **[ThesispenAI](https://github.com/ThesispenAI):** Collaborated in the development of an AI-driven platform that assists researchers in generating comprehensive, well-referenced research papers in seconds.
 - **[Ruleborn](https://rulebornintegrated.com/):** Led the development of in-house systems for computer-based testing and employee attendance tracking.
 - **[Traidr](https://traidr-frontend.vercel.app/):** A user-friendly e-commerce platform for trading, bartering, and finding great deals on pre-owned items. (Currently undergoing refactoring to enhance functionality and user experience).
