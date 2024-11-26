@@ -17,7 +17,7 @@ Fast forward to today, I’m still learning. But this time, not to break things!
 - **[Ruleborn](https://rulebornintegrated.com/):** Led the development of in-house systems for computer-based testing and employee attendance tracking.
 - **[Traidr](https://traidr-frontend.vercel.app/):** A user-friendly e-commerce platform for trading, bartering, and finding great deals on pre-owned items. (Currently undergoing refactoring to enhance functionality and user experience).
 
-You can view these and more [here](https:///#)
+You can view these and more [here](https://tochi.brimble.app)
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my career in software engineering, specifically in building impactful tech solutions.
